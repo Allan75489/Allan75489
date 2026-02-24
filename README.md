@@ -42,7 +42,7 @@
 
 ## 📫 Como me encontrar
 
-* GitHub: https://github.com/SEU_USUARIO
+* GitHub: [https://github.com/SEU_USUARIO](https://github.com/Allan75489)
 * Instagram: [https://instagram.com/SEU_INSTAGRAM](https://www.instagram.com/allangustavocarvalho?igsh=MXg2dzA2dmQzd2p4NQ==)
 
 ---
