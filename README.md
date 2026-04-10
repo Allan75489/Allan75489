@@ -1,26 +1,41 @@
 # 👋 Olá, eu sou Allan Gustavo
 
-💻 Estudante de Programação
-🎓 Cursando Sistemas para Internet
-🚀 Em evolução constante
+💻 Desenvolvedor Web em formação  
+🎓 Estudante de Sistemas para Internet  
+🚀 Focado em Front-end e Back-end 
 
 ---
 
 ## 🧠 Sobre mim
 
-* 🎯 Focado em desenvolvimento web
-* 📚 Sempre aprendendo novas tecnologias
-* 🌎 Brasil
+Sou estudante de Sistemas para Internet, focado em desenvolvimento web.
+
+Tenho interesse em desenvolver aplicações completas (full stack), atuando desde a construção da interface até a implementação do back-end, utilizando tecnologias modernas e boas práticas.
+
+Estou em busca de evolução constante e da minha primeira oportunidade na área.
 
 ---
 
-## 📚 O que eu estou aprendendo
+## 🚀 Projetos
 
-* 🌐 HTML
-* 🎨 CSS
-* ⚡ JavaScript
-* 🟢 Node.js
-* 🐍 Python
+🔹 Sistema de Conta Bancária (POO - Java)  
+🔹 API simples com Node.js  
+🔹 Site responsivo com HTML, CSS e JavaScript  
+
+📌 Em desenvolvimento: Sistema para farmácia (projeto profissional)
+
+---
+
+## 🛠️ Tecnologias
+
+**Front-end:**
+HTML, CSS, JavaScript
+
+**Back-end:**
+Node.js, Python
+
+**Estudando atualmente:**
+Java, Banco de Dados, APIs REST
 
 ---
 
@@ -36,11 +51,10 @@
 
 ---
 
-## 📫 Como me encontrar
+## 📫 Contato
 
-* GitHub: [https://github.com/SEU_USUARIO](https://github.com/Allan75489)
-* Instagram: [[https://instagram.com/SEU_INSTAGRAM](https://www.instagram.com/allangustavocarvalho?igsh=MXg2dzA2dmQzd2p4NQ==)](https://www.instagram.com/allangustavocarvalho?igsh=MXg2dzA2dmQzd2p4NQ==)
-* Whatsapp: +55 (83) 99199-8747
+🔗 GitHub: https://github.com/Allan75489  
+📸 Instagram: @allangustavocarvalho
 
 ---
 
