@@ -18,11 +18,33 @@ Estou em busca de evolução constante e da minha primeira oportunidade na área
 
 ## 🚀 Projetos
 
-🔹 Sistema de Conta Bancária (POO - Java)  
-🔹 API simples com Node.js  
-🔹 Site responsivo com HTML, CSS e JavaScript  
+### 💼 Projetos Principais
 
-📌 Em desenvolvimento: Sistema para farmácia (projeto profissional)
+🔹 Sistema BioFarm (em desenvolvimento)  
+Sistema voltado para gerenciamento de farmácia, com foco em controle de produtos e estoque.
+
+---
+
+### 📚 Projetos de Estudo
+
+🔹 Estrutura de Dados  
+Implementações práticas para aprendizado de listas, pilhas e filas.
+
+🔹 Python Dev Practice  
+Exercícios e desafios para evolução na linguagem Python.
+
+---
+
+### 🌐 Projetos Front-end
+
+🔹 Site Responsivo  
+Projeto utilizando HTML, CSS e JavaScript.
+
+🔹 Prime Fitness  
+Layout e prática de interface web.
+
+🔹 Portfólio pessoal  
+Página para apresentação de projetos.
 
 ---
 
