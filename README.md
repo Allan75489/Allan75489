@@ -1,11 +1,8 @@
-# 👋 Olá, eu sou Allan Gustavo
+Olá! 👋 Eu sou Allan Gustavo
 
-💻 Desenvolvedor Web em formação  
-🎓 Estudante de Sistemas para Internet  
-🚀 Focado em Front-end e Back-end 
+Estudante de Sistemas para Internet | Mulungu, Paraíba — Brasil
 
----
-
+Apaixonado por tecnologia e desenvolvimento de software. Atualmente estudando e construindo projetos com diversas linguagens e tecnologias.
 ## 🧠 Sobre mim
 
 Sou estudante de Sistemas para Internet, focado em desenvolvimento web.
