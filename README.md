@@ -1,8 +1,11 @@
+##
 Olá! 👋 Eu sou Allan Gustavo
 
 Estudante de Sistemas para Internet | Mulungu, Paraíba — Brasil
 
 Apaixonado por tecnologia e desenvolvimento de software. Atualmente estudando e construindo projetos com diversas linguagens e tecnologias.
+---
+
 ## 🧠 Sobre mim
 
 Sou estudante de Sistemas para Internet, focado em desenvolvimento web.
