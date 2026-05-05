@@ -33,6 +33,13 @@ Olá! 👋 Eu sou Allan Gustavo da Silva Carvalho
 
 ## 🛠️ Tecnologias & Ferramentas
 
+
+
+  
+
+
+
+
 **Front-end**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,6 +54,9 @@ Olá! 👋 Eu sou Allan Gustavo da Silva Carvalho
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+
+
 
 ---
 
