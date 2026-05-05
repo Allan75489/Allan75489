@@ -35,7 +35,7 @@ Olá! 👋 Eu sou Allan Gustavo da Silva Carvalho
 
 
 
- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" /> **
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" /> 
 
 ---
 
