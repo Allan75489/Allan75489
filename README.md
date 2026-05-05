@@ -31,6 +31,20 @@ Olá! 👋 Eu sou Allan Gustavo da Silva Carvalho
 
 ---
 
+
+## 📊 GitHub Stats
+
+
+
+![Allan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Allan75489&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allan75489&layout=compact&langs_count=7&theme=dracula&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Allan75489&theme=dracula&hide_border=true&locale=pt_BR)
+
+--- 
+
+
 ## 🛠️ Tecnologias & Ferramentas
 
 
