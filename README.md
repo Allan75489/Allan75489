@@ -1,83 +1,90 @@
-##
-Olá! 👋 Eu sou Allan Gustavo
+Olá! 👋 Eu sou Allan Gustavo da Silva Carvalho
 
-Estudante de Sistemas para Internet | Mulungu, Paraíba — Brasil
 
-Apaixonado por tecnologia e desenvolvimento de software. Atualmente estudando e construindo projetos com diversas linguagens e tecnologias.
+
+
+
+  🎓 Estudante de Sistemas para Internet  |  📍 Mulungu, Paraíba — Brasil
+
+
+
+
+
+
+
+  Desenvolvedor em formação, apaixonado por tecnologia e construção de soluções reais.
+
+  Busco minha primeira oportunidade na área enquanto evoluo com projetos práticos e estudos constantes.
+
+
+
+
 ---
 
 ## 🧠 Sobre mim
 
-Sou estudante de Sistemas para Internet, focado em desenvolvimento web.
-
-Tenho interesse em desenvolver aplicações completas (full stack), atuando desde a construção da interface até a implementação do back-end, utilizando tecnologias modernas e boas práticas.
-
-Estou em busca de evolução constante e da minha primeira oportunidade na área.
-
----
-
-## 🚀 Projetos
-
-### 💼 Projetos Principais
-
-🔹 Sistema BioFarm (em desenvolvimento)  
-Sistema voltado para gerenciamento de farmácia, com foco em controle de produtos e estoque.
+- 🎓 Cursando **Sistemas para Internet**
+- 💻 Foco em desenvolvimento **web full stack**
+- 🌱 Atualmente estudando **Java, APIs REST e Banco de Dados**
+- 🚀 Em busca da minha **primeira oportunidade profissional na área**
+- 📍 Mulungu, Paraíba — Brasil
 
 ---
 
-### 📚 Projetos de Estudo
+## 🛠️ Tecnologias & Ferramentas
 
-🔹 Estrutura de Dados  
-Implementações práticas para aprendizado de listas, pilhas e filas.
+**Front-end**
 
-🔹 Python Dev Practice  
-Exercícios e desafios para evolução na linguagem Python.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
----
+**Back-end & Linguagens**
 
-### 🌐 Projetos Front-end
-
-🔹 Site Responsivo  
-Projeto utilizando HTML, CSS e JavaScript.
-
-🔹 Prime Fitness  
-Layout e prática de interface web.
-
-🔹 Portfólio pessoal  
-Página para apresentação de projetos.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
-## 🛠️ Tecnologias
+## 🚀 Projetos em destaque
 
-**Front-end:**
-HTML, CSS, JavaScript
-
-**Back-end:**
-Node.js, Python
-
-**Estudando atualmente:**
-Java, Banco de Dados, APIs REST
-
----
-
-## 🛠️ Tecnologias
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+| Projeto | Descrição | Status |
+|---|---|---|
+| 💊 [Sistema BioFarm](https://github.com/Allan75489) | Gerenciamento de farmácia com controle de produtos e estoque | 🔧 Em desenvolvimento |
+| 🌐 [Prime Fitness](https://github.com/Allan75489) | Interface web de academia — layout responsivo com HTML, CSS e JS | ✅ Concluído |
+| 👤 [Portfólio Pessoal](https://github.com/Allan75489) | Página de apresentação de projetos e habilidades | ✅ Concluído |
+| 📚 [Estrutura de Dados](https://github.com/Allan75489) | Implementações de listas, pilhas e filas em Java/Python | 📖 Estudo |
+| 🐍 [Python Dev Practice](https://github.com/Allan75489) | Exercícios e desafios para evolução em Python | 📖 Estudo |
 
 ---
 
+## 📊 GitHub Stats
+
+
+
+
+![Allan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Allan75489&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allan75489&layout=compact&langs_count=7&theme=dracula&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Allan75489&theme=dracula&hide_border=true&locale=pt_BR)
+
+
+
+
 ---
 
-## 📫 Contato
+## 📫 Onde me encontrar
 
-🔗 GitHub: https://github.com/Allan75489  
-📸 Instagram: @allangustavocarvalho
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Allan75489)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/allangustavocarvalho)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
 ---
 
-⭐ *Sempre aprendendo e construindo coisas novas!*
+
+
+⭐ Sempre aprendendo e construindo coisas novas!
