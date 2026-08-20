@@ -149,42 +149,6 @@ Meu objetivo é continuar evoluindo como desenvolvedor e adquirir experiência p
   </a>
 </p>
 
----
-
-## ⚡ Developer
-
-```javascript
-const allan = {
-    foco: "Full Stack Development",
-
-    estudando: [
-        "Java",
-        "APIs REST",
-        "SQL",
-        "Banco de Dados"
-    ],
-
-    interesses: [
-        "AWS",
-        "Cibersegurança",
-        "Arquitetura de Software"
-    ],
-
-    tecnologias: [
-        "React",
-        "Node.js",
-        "Java",
-        "Python",
-        "MySQL",
-        "Docker"
-    ],
-
-    objetivo: "Primeira oportunidade profissional em tecnologia"
-};
-```
-
----
-
 <p align="center">
   <b>🚀 Sempre aprendendo, desenvolvendo e transformando ideias em projetos.</b>
 </p>
