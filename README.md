@@ -28,18 +28,10 @@ Desenvolvedor em formação, focado na criação de aplicações web, APIs e sol
 
 ---
 
-## 🚀 Technologies
+## 🚀 Technologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,nodejs,python,mysql,supabase,docker,git,github,vscode,idea,androidstudio,figma&perline=9" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Allan75489&theme=dracula&hide_border=true&locale=pt_BR" />
 </p>
 
 ---
