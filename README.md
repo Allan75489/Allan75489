@@ -22,8 +22,9 @@ Atualmente estou aprimorando meus conhecimentos em **Java, APIs REST, desenvolvi
 * 🛠️ Aprendizado baseado em projetos práticos
 
 ---
+### 🎨 Design & UI/UX
 
-## 🛠️ Tecnologias & Ferramentas
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 
 ### 🌐 Front-end
 
@@ -45,11 +46,16 @@ Atualmente estou aprimorando meus conhecimentos em **Java, APIs REST, desenvolvi
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 
-### 🔧 Ferramentas & Tecnologias
+### 🐳 DevOps & Infraestrutura
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+
+### 🔧 Ferramentas de Desenvolvimento
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge\&logo=androidstudio\&logoColor=white)
 
 ---
@@ -124,19 +130,3 @@ Meu objetivo é continuar evoluindo como desenvolvedor e adquirir experiência p
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:seuemail@gmail.com)
 
 ---
-
-## ⚡ Um pouco mais sobre mim
-
-```javascript
-const allan = {
-    foco: "Desenvolvimento Full Stack",
-    estudando: ["Java", "APIs REST", "SQL", "Banco de Dados"],
-    interesses: ["AWS", "Cibersegurança", "Arquitetura de Software"],
-    ferramentas: ["Git", "GitHub", "VS Code"],
-    objetivo: "Primeira oportunidade profissional em tecnologia"
-};
-```
-
----
-
-⭐ **Sempre aprendendo, desenvolvendo e transformando ideias em projetos.**
