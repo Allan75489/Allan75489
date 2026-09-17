@@ -31,7 +31,7 @@ Desenvolvedor em formação, focado na criação de aplicações web, APIs e sol
 ## 🚀 Technologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,nodejs,python,mysql,supabase,docker,git,github,vscode,idea,androidstudio,figma&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,nodejs,python,mysql,docker,git,github,vscode,idea,androidstudio,figma&perline=9" />
 </p>
 
 ---
