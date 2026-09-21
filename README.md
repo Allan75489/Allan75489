@@ -226,13 +226,11 @@ Confira outros projetos, estudos e experimentos diretamente no meu GitHub.
 
 ## `> Contribution Snake`
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Allan75489/Allan75489/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
-> **Nota:** para o Snake funcionar, é necessário configurar uma GitHub Action no repositório especial `Allan75489/Allan75489`, gerando o arquivo `github-contribution-grid-snake-dark.svg` na branch `output`.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ---
 
