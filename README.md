@@ -204,36 +204,6 @@ Confira outros projetos, estudos e experimentos diretamente no meu GitHub.
 
 ---
 
-## `> Activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Allan75489&bg_color=05070d&color=1687ff&line=1687ff&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## `> GitHub Trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Allan75489&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6" width="90%"/>
-
-</div>
-
----
-
-## `> Contribution Snake`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
----
-
 ## `> Onde me encontrar`
 
 <div align="center">
