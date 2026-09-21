@@ -182,18 +182,6 @@ Confira outros projetos, estudos e experimentos diretamente no meu GitHub.
 
 ---
 
-## `> GitHub Stats`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Allan75489&show_icons=true&hide_border=true&bg_color=05070d&title_color=1687ff&icon_color=1687ff&text_color=c9d1d9&rank_icon=github" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan75489&layout=compact&hide_border=true&bg_color=05070d&title_color=1687ff&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
----
-
 ## `> GitHub Streak`
 
 <div align="center">
